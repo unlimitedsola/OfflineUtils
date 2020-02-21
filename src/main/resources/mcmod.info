@@ -1,0 +1,16 @@
+[
+{
+  "modid": "offlineutils",
+  "name": "OfflineUtils",
+  "description": "As the name suggests.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sola"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
